@@ -1,4 +1,5 @@
-I am a web application developer specialized in the Django framework and Python, but I have experience also in JavaScript and React. Beyond this, I am open to learning new web technologies and facing other challenges. 
+🔭 I am a web application developer specialized in the Django framework and Python, but I have experience also in JavaScript and React. 
+🌱 Beyond this, I am open to learning new web technologies and facing other challenges.
 
 <!--
 **grbeno/grbeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
